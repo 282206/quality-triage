@@ -1,0 +1,8 @@
+Train 550 / val 132 images, 6 epochs (2 frozen), batch 32, 8 CPU threads
+epoch 1 [frozen] loss 2.150  val macro-F1 sharp 0.619 exposure 0.481 (102s)  <- saved best
+epoch 2 [frozen] loss 1.794  val macro-F1 sharp 0.703 exposure 0.539 (100s)  <- saved best
+epoch 3 [last 4 blocks] loss 1.760  val macro-F1 sharp 0.727 exposure 0.578 (127s)  <- saved best
+epoch 4 [last 4 blocks] loss 1.434  val macro-F1 sharp 0.677 exposure 0.513 (126s)
+epoch 5 [last 4 blocks] loss 1.398  val macro-F1 sharp 0.654 exposure 0.526 (126s)
+epoch 6 [last 4 blocks] loss 1.328  val macro-F1 sharp 0.692 exposure 0.545 (132s)
+Done in 11.9 min. Best val mean macro-F1 0.652 -> /Users/straycat/Desktop/Blur and Quality Triage/quality-triage/models/cnn_best.pt

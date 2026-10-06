@@ -1,0 +1,58 @@
+{
+  "wall (sharp)": {
+    "lap_var": 0.249,
+    "masked_lap": 0.292,
+    "fft_hf": 0.845,
+    "reblur": 0.776,
+    "reblur_masked": 0.782,
+    "reblur_dir": 0.813
+  },
+  "sky (sharp)": {
+    "lap_var": 0.237,
+    "masked_lap": 0.279,
+    "fft_hf": 0.758,
+    "reblur": 0.667,
+    "reblur_masked": 0.677,
+    "reblur_dir": 0.687
+  },
+  "document (sharp)": {
+    "lap_var": 0.897,
+    "masked_lap": 0.934,
+    "fft_hf": 0.91,
+    "reblur": 0.963,
+    "reblur_masked": 0.962,
+    "reblur_dir": 0.907
+  },
+  "low-contrast (sharp)": {
+    "lap_var": 0.274,
+    "masked_lap": 0.313,
+    "fft_hf": 0.682,
+    "reblur": 0.752,
+    "reblur_masked": 0.786,
+    "reblur_dir": 0.794
+  },
+  "gravel, gauss s=3 (blurry)": {
+    "lap_var": 0.202,
+    "masked_lap": 0.176,
+    "fft_hf": 0.12,
+    "reblur": 0.214,
+    "reblur_masked": 0.17,
+    "reblur_dir": 0.201
+  },
+  "foliage, motion 15 (blurry)": {
+    "lap_var": 0.357,
+    "masked_lap": 0.281,
+    "fft_hf": 0.784,
+    "reblur": 0.775,
+    "reblur_masked": 0.759,
+    "reblur_dir": 0.684
+  },
+  "gravel, gauss s=5 (blurry)": {
+    "lap_var": 0.078,
+    "masked_lap": 0.05,
+    "fft_hf": 0.039,
+    "reblur": 0.119,
+    "reblur_masked": 0.133,
+    "reblur_dir": 0.161
+  }
+}
