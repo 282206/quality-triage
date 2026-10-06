@@ -1,0 +1,66 @@
+filename,sharpness,exposure,rater,note,sharp_score,sharp_pred,exposure_score,exposure_pred,quality
+dummy_raw_000.jpg,good,good,dummy_rules,contrast0.85,0.8846592867868946,good,0.3078249734555189,bad,0.5218431004357096
+dummy_raw_001.jpg,borderline,good,dummy_rules,gauss0.8,0.8794704777000969,good,0.7106692749292965,good,0.7905774134826076
+dummy_raw_002.jpg,borderline,good,dummy_rules,motion3,0.7672419797188575,good,0.7201091190444368,good,0.743302055768216
+dummy_raw_003.jpg,borderline,good,dummy_rules,gauss2.2+ev-0.2,0.11279602631550531,bad,0.7611788195780176,good,0.29301526609364115
+dummy_raw_004.jpg,bad,good,dummy_rules,motion30,0.20894477576585294,bad,0.725641692483133,good,0.3893828973160509
+dummy_raw_005.jpg,good,good,dummy_rules,clean,0.9400613585578089,good,0.7371753105244736,good,0.8324602236184689
+dummy_raw_006.jpg,good,borderline,dummy_rules,ev+0.9,0.9110806707613355,good,0.2006341590815022,bad,0.427544037771095
+dummy_raw_007.jpg,good,bad,dummy_rules,ev-1.3,0.6220877212365509,borderline,0.10922697336334332,bad,0.2606698274775347
+dummy_raw_008.jpg,good,good,dummy_rules,ev+0.2,0.7675775082179767,good,0.9057081605373752,good,0.8337872708538825
+dummy_raw_009.jpg,bad,bad,dummy_rules,motion18+ev+1.3,0.475630108381308,borderline,0.19696373941745846,bad,0.3060749658601851
+dummy_raw_010.jpg,good,good,dummy_rules,ev+0.2,0.7615192331555957,good,0.5905746012131962,borderline,0.6706220376911609
+dummy_raw_011.jpg,bad,good,dummy_rules,motion18,0.08414623691583543,bad,0.761886599488734,good,0.25319930944530483
+dummy_raw_012.jpg,good,good,dummy_rules,clean,0.8668305437678786,good,0.7758964626664252,good,0.8201041108546591
+dummy_raw_013.jpg,good,borderline,dummy_rules,ev+0.9,0.9848645759825958,good,0.6999238059660765,good,0.8302590935261742
+dummy_raw_014.jpg,good,borderline,dummy_rules,gauss0.0+contrast0.65,0.8695181332998492,good,0.29781106730041673,bad,0.5088733863301304
+dummy_raw_015.jpg,good,bad,dummy_rules,ev+2.0,0.9065476744842095,good,0.06559633109375292,bad,0.24385692815201693
+dummy_raw_016.jpg,good,good,dummy_rules,ev+0.2,0.7054782344454221,good,0.7587565885051177,good,0.7316325979837299
+dummy_raw_017.jpg,borderline,bad,dummy_rules,gauss1.5+contrast0.3,0.7361538414845336,good,0.5381816106007488,borderline,0.6294318549772283
+dummy_raw_018.jpg,borderline,borderline,dummy_rules,motion7+contrast0.65,0.660449464057509,borderline,0.6682783106039019,good,0.6643523553654375
+dummy_raw_019.jpg,good,good,dummy_rules,contrast0.85,0.7206937326674774,good,0.7940993381969366,good,0.7565067191730181
+dummy_raw_020.jpg,good,borderline,dummy_rules,ev+0.9,0.7137451969928017,good,0.8717518856694252,good,0.7888020799706161
+dummy_raw_021.jpg,good,bad,dummy_rules,ev-2.0,1.0,good,0.07986082047571272,bad,0.28259656840753167
+dummy_raw_022.jpg,good,good,dummy_rules,clean,1.0,good,0.5137536012888904,borderline,0.7167660715246574
+dummy_raw_023.jpg,good,good,dummy_rules,gauss0.0+ev+0.2,1.0,good,0.44659439365618403,borderline,0.6682771832527159
+dummy_raw_024.jpg,good,good,dummy_rules,clean,0.7457422015670043,good,0.2454304868237717,bad,0.42781756810072813
+dummy_raw_025.jpg,good,good,dummy_rules,clean,0.9235640195156098,good,0.7434970370283732,good,0.8286537950289437
+dummy_raw_026.jpg,bad,good,dummy_rules,motion30,0.3947408729381093,borderline,0.5618965260339417,borderline,0.4709602161409488
+dummy_raw_027.jpg,good,borderline,dummy_rules,contrast0.65,0.7827238994518629,good,0.3057455231908667,bad,0.48919763710785147
+dummy_raw_028.jpg,bad,good,dummy_rules,gauss4.5,0.07787683086436602,bad,0.7243076997281601,good,0.2375011331035874
+dummy_raw_029.jpg,bad,good,dummy_rules,motion18,0.22185264288597134,bad,0.7105679046148053,good,0.39704076313237835
+dummy_raw_030.jpg,good,good,dummy_rules,clean,1.0,good,0.31087492324307575,bad,0.5575615869507832
+dummy_raw_031.jpg,good,bad,dummy_rules,ev+2.0,1.0,good,0.012473157323969435,bad,0.11168329026299967
+dummy_raw_032.jpg,good,good,dummy_rules,gauss0.4,0.7293044321232043,good,0.8362852722654622,good,0.7809651436412269
+dummy_raw_033.jpg,good,good,dummy_rules,ev-0.2,0.9959023066087919,good,0.6769383546690939,good,0.8210751907388939
+dummy_raw_034.jpg,good,borderline,dummy_rules,contrast0.65,1.0,good,0.3130164900356952,bad,0.5594787663850124
+dummy_raw_035.jpg,bad,good,dummy_rules,motion11,0.08323679664286183,bad,0.7460078659552744,good,0.24918929558168124
+dummy_raw_036.jpg,bad,borderline,dummy_rules,gauss3.5+ev-0.6,0.18668964934688567,bad,0.30246415995314685,bad,0.23762770874132783
+dummy_raw_037.jpg,bad,good,dummy_rules,motion18+contrast0.85,0.35157568446500165,borderline,0.6997068960205077,good,0.49598380103919903
+dummy_raw_038.jpg,good,borderline,dummy_rules,contrast0.65,0.688299050209999,good,0.3298824101274178,bad,0.47650577076430783
+dummy_raw_039.jpg,good,bad,dummy_rules,ev+1.3,0.6835768696439941,good,0.6889688355726207,good,0.6862675570817841
+dummy_raw_040.jpg,good,good,dummy_rules,clean,0.7702457884444295,good,0.7612730702575191,good,0.7657462871095193
+dummy_raw_041.jpg,good,good,dummy_rules,gauss0.4,0.982431290786048,good,0.7068330962061056,good,0.833315637124411
+dummy_raw_042.jpg,good,good,dummy_rules,clean,0.8714079436301629,good,0.6755923203488995,good,0.7672786420900589
+dummy_raw_043.jpg,good,good,dummy_rules,clean,0.7543054485998596,good,0.762996611349169,good,0.7586385840463874
+dummy_raw_044.jpg,bad,good,dummy_rules,motion11,0.23502781329085604,bad,0.7994218036537896,good,0.43345860057193725
+dummy_raw_045.jpg,good,borderline,dummy_rules,ev+0.6,0.9563085365568622,good,0.7517575143104596,good,0.8478868605868709
+dummy_raw_046.jpg,good,borderline,dummy_rules,ev+0.6,0.9078199779145832,good,0.3168311974520882,bad,0.5363074590881668
+dummy_raw_047.jpg,good,borderline,dummy_rules,ev+0.6,0.76662228390979,good,0.24070149602673474,bad,0.42956621215421337
+dummy_raw_048.jpg,bad,good,dummy_rules,motion11,0.25968312485752354,bad,0.797640659693204,good,0.45511956563363404
+dummy_raw_049.jpg,good,borderline,dummy_rules,contrast0.65,0.9944355811426983,good,0.6282826090643872,borderline,0.790434425785463
+dummy_raw_050.jpg,good,bad,dummy_rules,ev+2.0,0.9864491116649459,good,0.2823533252909727,bad,0.5277567497521216
+dummy_raw_051.jpg,borderline,bad,dummy_rules,motion7+ev-1.3,0.5186610032733607,borderline,0.296055611091572,bad,0.39185775515289045
+dummy_raw_052.jpg,good,good,dummy_rules,clean,0.7993837649967808,good,0.6782205565616626,good,0.7363141326923407
+dummy_raw_053.jpg,good,borderline,dummy_rules,ev+0.9,1.0,good,0.6932847145471531,good,0.8326372046378622
+dummy_raw_054.jpg,good,good,dummy_rules,clean,0.7378890210200529,good,0.7154720006852024,good,0.7265940642152692
+dummy_raw_055.jpg,borderline,good,dummy_rules,gauss2.2,0.18167367158165182,bad,0.46974593583893437,borderline,0.2921309105083169
+dummy_raw_056.jpg,borderline,good,dummy_rules,motion3,0.6799435931936068,good,0.6975490639812242,good,0.6886900732493758
+dummy_raw_057.jpg,good,borderline,dummy_rules,ev-0.6,0.94416532864594,good,0.32488884225658454,bad,0.5538490593316803
+dummy_raw_058.jpg,good,borderline,dummy_rules,ev-0.9,0.8434194570710662,good,0.4738415951585674,borderline,0.6321765741676346
+dummy_raw_059.jpg,good,good,dummy_rules,gauss0.0,0.4386805671922908,borderline,0.8533600370469505,good,0.6118434972041384
+dummy_raw_000_dup.jpg,good,good,dummy_rules,near-duplicate of clean base,0.8975528996519279,good,0.411141225273705,borderline,0.6074709860650633
+dummy_raw_003_dup.jpg,good,good,dummy_rules,near-duplicate of clean base,0.41132652751667426,borderline,0.8904842898450004,good,0.605210550759069
+dummy_raw_006_dup.jpg,good,good,dummy_rules,near-duplicate of clean base,0.8416548836129772,good,0.4497876664242514,borderline,0.6152771619643101
+dummy_raw_009_dup.jpg,good,good,dummy_rules,near-duplicate of clean base,0.9831793504803796,good,0.7028176255538131,good,0.8312615572719338
+dummy_raw_012_dup.jpg,good,good,dummy_rules,near-duplicate of clean base,0.8555234991436709,good,0.7986321917468752,good,0.8265885356161587

@@ -1,0 +1,51 @@
+{
+  "n_overlap": 30,
+  "sharpness": {
+    "n": 30,
+    "percent_agreement": 86.7,
+    "kappa": 0.737,
+    "kappa_quadratic": 0.872,
+    "interpretation": "almost perfect",
+    "confusion (rows=rater1, cols=rater2)": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        4,
+        18
+      ]
+    ]
+  },
+  "exposure": {
+    "n": 30,
+    "percent_agreement": 96.7,
+    "kappa": 0.934,
+    "kappa_quadratic": 0.963,
+    "interpretation": "almost perfect",
+    "confusion (rows=rater1, cols=rater2)": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        1,
+        19
+      ]
+    ]
+  }
+}
