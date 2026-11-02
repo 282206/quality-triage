@@ -250,7 +250,8 @@ exposure κ = 0.934 (quadratic 0.963).
 5. `python run_all.py` (about 10–15 min, mostly the CNN). Then copy the new
    `results/comparison_table.md` into this README.
 
-## Limitations (be ready for these in the viva)
+## Limitations 
+
 * Analysis happens at 512 px. Slight blur on a 12 MP photo can vanish at that
   scale. That roughly matches "does it look blurry on a phone screen", but it
   is a design choice (`ANALYSIS_SIDE`).
