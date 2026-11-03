@@ -238,18 +238,6 @@ exposure κ = 0.934 (quadratic 0.963).
 
 ---
 
-## Using your real photos
-
-1. `python -m src.make_dummy --clean`. This removes every `dummy_*` image and
-   dummy label row, and nothing else.
-2. Put 30+ **sharp, well-exposed** photos (varied content: walls, documents,
-   foliage, people) in `data/sharp_source/`.
-3. Put your real phone photos in `data/raw/` (JPEG/PNG; convert HEIC first).
-4. `streamlit run app.py` → **Label** page. Label everything as rater 1, and ask
-   a friend to label a subset (30–50) as rater 2.
-5. `python run_all.py` (about 10–15 min, mostly the CNN). Then copy the new
-   `results/comparison_table.md` into this README.
-
 ## Limitations 
 
 * Analysis happens at 512 px. Slight blur on a 12 MP photo can vanish at that
