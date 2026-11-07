@@ -5,6 +5,8 @@ exposed** and **near-duplicate** images so you can clean them up. Nothing is
 ever deleted: the app moves selected photos into a `_trash/` subfolder, and you
 can undo or restore from there.
 
+Live website: https://quality-triage.onrender.com/
+
 The project compares three methods:
 
 | Method | Sharpness signal | Exposure signal |
